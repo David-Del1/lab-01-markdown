@@ -4,7 +4,7 @@
 
 Here is some regular text
 
-Here is some text with **emphasis**
+Here is some text with _emphasis_
 
 Here is some **bolded** text.
 
@@ -21,3 +21,9 @@ Here is some **bolded** text.
 > > using a double chevron symbol like this!
 
 Hello, this is more text for another commit. I'm doing version control! Awesome!
+
+Here is a bullet list:
+
+- Apples
+- Oranges
+- Plums
