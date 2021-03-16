@@ -18,4 +18,6 @@ Here is some **bolded** text.
 
 > We can also nest quotes inside of other quotes
 >
-> > using a double chevron symbok like this!
+> > using a double chevron symbol like this!
+
+Hello, this is more text for another commit. I'm doing version control! Awesome!
