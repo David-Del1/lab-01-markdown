@@ -27,3 +27,10 @@ Here is a bullet list:
 - Apples
 - Oranges
 - Plums
+
+Here is a table:
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
